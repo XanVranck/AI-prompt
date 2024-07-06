@@ -1,0 +1,23 @@
+{
+  "name": "hulpli",
+  "version": "1.0.0",
+  "description": "hulpli - de huishoudhulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XanVranck/hulpli.git"
+  },
+  "author": "xanv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XanVranck/hulpli/issues"
+  },
+  "homepage": "https://github.com/XanVranck/hulpli#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "openai": "^4.52.3"
+  }
+}
